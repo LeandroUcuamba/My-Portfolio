@@ -478,8 +478,8 @@ section.start-animation .column h2{
 }
 
 .new_evolium-logo{
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     background-image: url(assets/new_evolium-logo.png);
     object-fit:contain;
 }
