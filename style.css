@@ -470,17 +470,17 @@ section.start-animation .column h2{
     font-size: 1.5rem;
 }
 
-.tistech-logo{
+.new_tistech-logo{
     width: 40px;
     height: 40px;
-    background-image: url(assets/tistech-logo.png);
+    background-image: url(assets/new_tistech-logo.png);
     object-fit: cover;
 }
 
-.musickool-logo{
+.new_evolium-logo{
     width: 40px;
     height: 40px;
-    background-image: url(assets/musickool-logo.jpg);
+    background-image: url(assets/new_evolium-logo.jpg);
     object-fit:contain;
 }
 
@@ -490,11 +490,11 @@ section.start-animation .column h2{
     flex-direction: row;
 }
 
-.ttt .tistech-logo{
+.ttt .new_tistech-logo{
     margin-top: 16px;
 }
 
-.ttt .musickool-logo{
+.ttt .new_evolium-logo{
     margin-top: 16px;
 }
 
@@ -752,7 +752,7 @@ footer i{
         height: 20rem;
     }
 
-    .ttt .tistech-logo{
+    .ttt .new_tistech-logo{
         margin-bottom: 14px;
 
         h2{
@@ -760,7 +760,7 @@ footer i{
         }
     }
     
-    .ttt .musickool-logo{
+    .ttt .new_evolium-logo{
         margin-bottom: 14px;
 
         h2{
