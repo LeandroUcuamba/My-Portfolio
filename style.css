@@ -228,7 +228,6 @@ section{
     overflow: hidden;
     z-index: 1;
     text-decoration: none;
-    margin-left: 10px;
 }
 .btn::before{
     content: "";
