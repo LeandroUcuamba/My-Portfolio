@@ -191,6 +191,9 @@ section{
     margin: 2rem 0;
     position: relative;
 }
+.btn-section a{
+    margin-left: 10px;
+}
 .btn-section::before{
     content: "";
     position: absolute;
