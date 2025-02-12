@@ -314,16 +314,26 @@ section.start-animation .title{
 .title span{
     color: #3efffc;
 }
-.about img{
-    height: 20rem;
-    width: 20rem;
+.about img {
+    height: 25rem;
+    width: 25rem;
     background: rgba(255,255,255,.1);
     border: .2rem solid rgba(255,255,255,.3);
     border-radius: 50%;
     filter: drop-shadow(0 0 8rem #3efffc);
-    scale: 0;
     object-fit: cover;
 }
+
+.image-container {
+    display: flex;        /* Flexbox container para as imagens */
+    gap: 10rem;            /* Espaço entre as imagens */
+}
+
+.image-container img {
+    flex: 1;              /* As imagens irão ocupar o mesmo espaço dentro do container */
+    max-width: 100%;      /* Evita que as imagens ultrapassem o limite do container */
+}
+
 section.start-animation .aboutImg{
     animation: scaleout 1s ease forwards;
 }
