@@ -111,7 +111,7 @@ section{
 }
 .text-animation{
     position: relative;
-    width: 32.8rem;
+    width: 65rem;
 }
 .text-animation h2{
     font-size: 3.2rem;
@@ -682,7 +682,7 @@ footer i{
     border-radius: 50%;
     font-size: 2.4rem;
 }
-/* RESPONSIVE */
+
 @media(max-width:1200px){
     html{
         font-size: 55;
