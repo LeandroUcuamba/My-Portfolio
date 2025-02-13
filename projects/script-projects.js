@@ -1,10 +1,48 @@
 document.addEventListener("DOMContentLoaded", () => {
     const projetos = [
         { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto1", 
-            youtube: "https://youtu.be/seu-video1", 
-            tecnologias: "Java + Selenium + Jenkins", 
+            img: "./images/technologies/cypress.png", 
+            github: "https://github.com/LeandroUcuamba/API_TESTING_WITH_CYPRESS",
+            tecnologias: "javaScript + Cypress -> (API Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/cypress.png", 
+            github: "https://github.com/LeandroUcuamba/CYPRESS-AND-GITHUB-ACTIONS-CI",
+            tecnologias: "javaScript + Cypress + Github Actions CI -> (Web Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/cypress.png", 
+            github: "https://github.com/LeandroUcuamba/CYPRESS-CUCUMBER-BDD", 
+            tecnologias: "javaScript + Cypress + Cucumber + BDD -> (Web Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/playwright.png", 
+            github: "https://github.com/LeandroUcuamba/Playwright_login_tests", 
+            tecnologias: "typeScript + Playwright -> (Web Testing)", 
+            tipo: "Test Automation"
+        },
+        { 
+            img: "./images/technologies/selenium.png", 
+            github: "https://github.com/LeandroUcuamba/praticando-sobre-selenium-e-Rest-Assured/tree/main/TesteOne",
+            youtube: "https://www.youtube.com/watch?v=oKfw11-SXFE",
+            tecnologias: "java + Selenium -> (Web Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/rest-assured.png", 
+            github: "https://github.com/LeandroUcuamba/praticando-sobre-selenium-e-Rest-Assured/tree/main/RestAssuredProject", 
+            youtube: "https://www.youtube.com/watch?v=SJpg6dyQouo",
+            tecnologias: "java + Rest Assured -> (API Testing)",  
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/Katalon.png", 
+            github: "https://github.com/LeandroUcuamba/Minhas-Praticas-de-Testes-com-katalon",
+            youtube: "https://www.youtube.com/watch?v=J8cEqvK-aws", 
+            tecnologias: "java + Groovy + Katalon -> ( We have 3 tests in this Github repository - Web Testing)", 
             tipo: "Test Automation" 
         },
         { 
@@ -12,13 +50,6 @@ document.addEventListener("DOMContentLoaded", () => {
             github: "https://github.com/seu-usuario/projeto2", 
             tecnologias: "", 
             tipo: "Software Development" 
-        },
-        { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto3", 
-            youtube: "https://youtu.be/seu-video3", 
-            tecnologias: "", 
-            tipo: "Test Automation" 
         },
         { 
             img: "./images/ANGOLA-FLAG.png", 
@@ -37,20 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
             img: "./images/ANGOLA-FLAG.png", 
             github: "https://github.com/seu-usuario/projeto6", 
             tecnologias: "", 
-            tipo: "Test Automation" 
-        },
-        { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto7", 
-            youtube: "https://youtu.be/seu-video7", 
-            tecnologias: "", 
-            tipo: "Test Automation" 
-        },
-        { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto8", 
-            tecnologias: "", 
-            tipo: "Software Development" 
+            tipo: "Software Development"
         }
     ];
 
