@@ -325,13 +325,13 @@ section.start-animation .title{
 }
 
 .image-container {
-    display: flex;        /* Flexbox container para as imagens */
-    gap: 10rem;            /* Espaço entre as imagens */
+    display: flex;
+    gap: 10rem;
 }
 
 .image-container img {
-    flex: 1;              /* As imagens irão ocupar o mesmo espaço dentro do container */
-    max-width: 100%;      /* Evita que as imagens ultrapassem o limite do container */
+    flex: 1;
+    max-width: 100%;
 }
 
 section.start-animation .aboutImg{

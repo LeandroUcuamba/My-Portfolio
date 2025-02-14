@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { 
             img: "./images/technologies/cypress.png", 
             github: "https://github.com/LeandroUcuamba/CYPRESS-AND-GITHUB-ACTIONS-CI",
+            youtube: "https://www.youtube.com/watch?v=8VTA-ZSAlQI",
             tecnologias: "javaScript + Cypress + Github Actions CI -> (Web Testing)", 
             tipo: "Test Automation" 
         },
@@ -41,35 +42,157 @@ document.addEventListener("DOMContentLoaded", () => {
         { 
             img: "./images/technologies/Katalon.png", 
             github: "https://github.com/LeandroUcuamba/Minhas-Praticas-de-Testes-com-katalon",
-            youtube: "https://www.youtube.com/watch?v=J8cEqvK-aws", 
-            tecnologias: "java + Groovy + Katalon -> ( We have 3 tests in this Github repository - Web Testing)", 
+            youtube: "https://www.youtube.com/watch?v=J4IqB5syXoo", 
+            tecnologias: "java + Groovy + Katalon + BDD -> ( We have 3 tests diferent tests in this Github repository)", 
             tipo: "Test Automation" 
         },
         { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto2", 
-            tecnologias: "", 
+            img: "./images/technologies/react.jpg", 
+            github: "https://github.com/LeandroUcuamba/MBINGULA_FRONTEND", 
+            tecnologias: "javaScript + React.js -> (Frontend of Restaurant Management System)",
             tipo: "Software Development" 
         },
         { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto4", 
-            tecnologias: "", 
-            tipo: "Software Development" 
-        },
-        { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto5", 
-            youtube: "https://youtu.be/seu-video5", 
-            tecnologias: "", 
-            tipo: "Software Development" 
-        },
-        { 
-            img: "./images/ANGOLA-FLAG.png", 
-            github: "https://github.com/seu-usuario/projeto6", 
-            tecnologias: "", 
+            img: "./images/technologies/nodejs.jpg", 
+            github: "https://github.com/LeandroUcuamba/MBINGULA_BACKEND_API",  
+            tecnologias: "TypeScript + Node.js + PostgreSQL -> (Backend of Restaurant Management System)", 
             tipo: "Software Development"
-        }
+        },
+        { 
+            img: "./images/technologies/laravel.jpg", 
+            github: "https://github.com/LeandroUcuamba/CriacaoApiComLaravel_e_Mysql", 
+            youtube: "https://www.youtube.com/", 
+            tecnologias: "PHP + Laravel + MySQL -> (Backend - API for a contact list)", 
+            tipo: "Software Development" 
+        },
+        { 
+            img: "./images/technologies/java_desktop.jpg", 
+            github: "https://github.com/LeandroUcuamba/SistemaVendas_Com_JAVA",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "Java + Swing + MySQL -> (Point of sales 'POS')",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Flutter.png", 
+            github: "https://github.com/LeandroUcuamba/flutter_travel_app_ui",
+            tecnologias: "Dart + Flutter -> (Frontend - Angola Travel App)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/react.jpg", 
+            github: "https://github.com/LeandroUcuamba/React-blog-app", 
+            tecnologias: "javaScript + React.js + Fake JSON (API) -> (BLOG)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/java_web.png", 
+            github: "https://github.com/LeandroUcuamba/Projeto_Agenda-CRUD",
+            tecnologias: "Java + JSP + Servlet -> (Fullstack - API for a contact list)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Flutter.png", 
+            github: "https://github.com/LeandroUcuamba/carteira_virtual",
+            tecnologias: "Dart + Flutter -> (Frontend - Virtual Bank Wallet)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Flutter.png", 
+            github: "https://github.com/LeandroUcuamba/flutter_cookie_storie_app",
+            tecnologias: "Dart + Flutter -> (Frontend - Cookie Storie App)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/js.png", 
+            github: "https://github.com/LeandroUcuamba/CRUD-com-Fetchi-API-Rest---2023",
+            tecnologias: "JavaScript -> (Fullstack - CRUD with Fetch API)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Angular1.png", 
+            github: "https://github.com/LeandroUcuamba/projetoCalcIMC_Angular",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "typeScript + Angular -> (BMI Calculator)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/React_Native.png", 
+            github: "https://github.com/LeandroUcuamba/Calculadora_IMC_com_React-Native",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "JavaScript + React Native -> (BMI Calculator)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/HTML_CSS_JS_php_mysql.png", 
+            github: "https://github.com/LeandroUcuamba/Lista_de_alunos_CRUD-PHP",
+            tecnologias: "PHP + MySQL -> (Student list control)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/HTML_CSS_JS_php_mysql.png", 
+            github: "https://github.com/LeandroUcuamba/CRUD_Completo_PHP_PDO_MVC_Materialize",
+            tecnologias: "PHP + MySQL + MVC-> (Store Shoes Control)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Flutter.png", 
+            github: "https://github.com/LeandroUcuamba/AppMoeda_LeandroUcuamba_FlutterUI",
+            tecnologias:  "Dart + Flutter -> (Frontend - Currency Converter App)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Flutter.png", 
+            github: "https://github.com/LeandroUcuamba/Calculadora_com_flutter-UI",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "Dart + Flutter -> (Frontend - Calculator App)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/Angular1.png", 
+            github: "https://github.com/LeandroUcuamba/Projeto_Angular13_FrontEnd",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "typeScript + Angular -> (Frontend - Blog App)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/vuejs.png", 
+            github: "https://github.com/LeandroUcuamba/Projeto_Make_Your_Burger",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "javaScript + VueJS + JSON API -> (Frontend - Fast Food Order Managment System)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/laravel.jpg", 
+            github: "https://github.com/LeandroUcuamba/Projeto_Publicidade-de-Eventos_com_LARAVEL",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "PHP + Laravel + MySQL + Blade -> (Fullstack - Event Promotion Web System)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/laravel.jpg",
+            github: "https://github.com/LeandroUcuamba/Meu_Projeto-LaravelApi_axios_e_vuejs3",
+            youtube: "https://www.youtube.com/",  
+            tecnologias: "PHP + Laravel + MySQL + VueJS + MySQL -> (Fullstack - Products Control)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/java_desktop.jpg", 
+            github: "https://github.com/LeandroUcuamba/projectoSD_Socket",
+            tecnologias: "Java + Swing -> (Socket)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/nodejs.jpg", 
+            github: "https://github.com/LeandroUcuamba/segunda_forma_API_com_NodeJs",
+            tecnologias: "JavaScript + Node.JS + MySQL-> (Backend - ToDo List)",
+            tipo: "Software Development"
+        },
+        { 
+            img: "./images/technologies/nodejs.jpg", 
+            github: "https://github.com/LeandroUcuamba/primeira_forma_API_com_NodeJs",
+            tecnologias: "JavaScript + Node.JS + MySQL -> (Backend - API Cars Control)",
+            tipo: "Software Development"
+        },
     ];
 
     const container = document.getElementById("projetos-container");

@@ -17,7 +17,7 @@ header {
 
 h1 {
     font-size: 2em;
-    color: #ffffff;
+    color: #3efffc;
     margin-bottom: 1.4rem;
 }
 
@@ -66,8 +66,17 @@ h1 {
     background-color: #333;
 }
 
+.github:hover {
+    background-color: #5e5959;
+}
+
 .youtube {
     background-color: #e26464;
+}
+
+.youtube:hover{
+    background-color: #aa2f2f;
+    box-shadow: #141313b7;
 }
 
 .github i, .youtube i {
@@ -88,8 +97,8 @@ h1 {
 }
 
 .filter-buttons button {
-    background-color: #e26464;
-    color: rgb(255, 255, 255);
+    background-color: #3efffc;
+    color: rgb(8, 8, 8);
     border: none;
     padding: 10px 20px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -101,7 +110,7 @@ h1 {
 }
 
 .filter-buttons button:hover {
-    background-color: #e26464;
+    background-color: #bce4e3;
 }
 
 @media (max-width: 768px) {
