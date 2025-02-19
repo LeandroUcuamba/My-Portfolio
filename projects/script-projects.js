@@ -20,6 +20,20 @@ document.addEventListener("DOMContentLoaded", () => {
             tipo: "Test Automation" 
         },
         { 
+            img: "./images/technologies/cypress.png", 
+            github: "https://github.com/LeandroUcuamba/praticando_gitlab_CI_com_cypress",
+            youtube: "https://www.youtube.com/watch?v=c0wad1ba6YU&pp=ygUPTGVhbmRybyBVY3VhbWJh", 
+            tecnologias: "javaScript + Cypress + Gitlab CI -> (Web Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
+            img: "./images/technologies/cypress.png", 
+            github: "https://github.com/LeandroUcuamba/Leandro_Automation_Cypress",
+            youtube: "https://www.youtube.com/watch?v=c0wad1ba6YU&pp=ygUPTGVhbmRybyBVY3VhbWJh", 
+            tecnologias: "javaScript + Cypress + Reports + Github Actions CI -> (Web Testing)", 
+            tipo: "Test Automation" 
+        },
+        { 
             img: "./images/technologies/playwright.png", 
             github: "https://github.com/LeandroUcuamba/Playwright_login_tests", 
             tecnologias: "typeScript + Playwright -> (Web Testing)", 
@@ -40,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
             tipo: "Test Automation" 
         },
         { 
-            img: "./images/technologies/Katalon.png", 
+            img: "./images/technologies/katalon.png", 
             github: "https://github.com/LeandroUcuamba/Minhas-Praticas-de-Testes-com-katalon",
             youtube: "https://www.youtube.com/watch?v=J4IqB5syXoo", 
             tecnologias: "java + Groovy + Katalon + BDD -> ( We have 3 tests diferent tests in this Github repository)", 
