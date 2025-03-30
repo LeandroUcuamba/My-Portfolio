@@ -54,6 +54,12 @@ document.addEventListener("DOMContentLoaded", () => {
             tipo: "Test Automation" 
         },
         { 
+            img: "./images/technologies/k6.png", 
+            github: "https://github.com/LeandroUcuamba/praticando_teste_com_K6", 
+            tecnologias: "JavaScript + K6 -> (API Performance Testing)",  
+            tipo: "Test Automation" 
+        },
+        { 
             img: "./images/technologies/katalon.png", 
             github: "https://github.com/LeandroUcuamba/Minhas-Praticas-de-Testes-com-katalon",
             youtube: "https://www.youtube.com/watch?v=J4IqB5syXoo", 
