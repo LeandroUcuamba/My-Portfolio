@@ -41,27 +41,27 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         { 
             img: "./images/technologies/selenium.png", 
-            github: "https://github.com/LeandroUcuamba/praticando-sobre-selenium-e-Rest-Assured/tree/main/TesteOne",
+            github: "https://github.com/LeandroUcuamba/practicing-on-selenium-and-Rest-Assured/tree/main/TesteOne",
             youtube: "https://www.youtube.com/watch?v=oKfw11-SXFE",
             tecnologias: "java + Selenium -> (Web Testing)", 
             tipo: "Test Automation" 
         },
         { 
             img: "./images/technologies/rest-assured.png", 
-            github: "https://github.com/LeandroUcuamba/praticando-sobre-selenium-e-Rest-Assured/tree/main/RestAssuredProject", 
+            github: "https://github.com/LeandroUcuamba/practicing-on-selenium-and-Rest-Assured/tree/main/RestAssuredProject", 
             youtube: "https://www.youtube.com/watch?v=SJpg6dyQouo",
             tecnologias: "java + Rest Assured -> (API Testing)",  
             tipo: "Test Automation" 
         },
         { 
             img: "./images/technologies/k6.png", 
-            github: "https://github.com/LeandroUcuamba/praticando_teste_com_K6", 
+            github: "https://github.com/LeandroUcuamba/practicing_testing_with_k6", 
             tecnologias: "JavaScript + K6 -> (API Performance Testing)",  
             tipo: "Test Automation" 
         },
         { 
             img: "./images/technologies/katalon.png", 
-            github: "https://github.com/LeandroUcuamba/Minhas-Praticas-de-Testes-com-katalon",
+            github: "https://github.com/LeandroUcuamba/My-Testing-Practices-with-katalon",
             youtube: "https://www.youtube.com/watch?v=J4IqB5syXoo", 
             tecnologias: "java + Groovy + Katalon + BDD -> ( We have 3 tests diferent tests in this Github repository)", 
             tipo: "Test Automation" 
@@ -80,13 +80,13 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         { 
             img: "./images/technologies/laravel.jpg", 
-            github: "https://github.com/LeandroUcuamba/CriacaoApiComLaravel_e_Mysql",  
+            github: "https://github.com/LeandroUcuamba/CreationApiWithLaravel_and_Mysql",  
             tecnologias: "PHP + Laravel + MySQL -> (Backend - API for a contact list)", 
             tipo: "Software Development" 
         },
         { 
             img: "./images/technologies/java_desktop.jpg", 
-            github: "https://github.com/LeandroUcuamba/SistemaVendas_Com_JAVA",
+            github: "https://github.com/LeandroUcuamba/SalesSystem_With_JAVA",
             youtube: "https://www.youtube.com/watch?v=8jJ7jMBfntg&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=4&pp=iAQB",  
             tecnologias: "Java + Swing + MySQL -> (Point of sales 'POS')",
             tipo: "Software Development"
@@ -105,51 +105,39 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         { 
             img: "./images/technologies/java_web.png", 
-            github: "https://github.com/LeandroUcuamba/Projeto_Agenda-CRUD",
+            github: "https://github.com/LeandroUcuamba/Project_Agenda-CRUD",
             tecnologias: "Java + JSP + Servlet -> (Fullstack - API for a contact list)",
             tipo: "Software Development"
         },
         { 
-            img: "./images/technologies/Flutter.png", 
-            github: "https://github.com/LeandroUcuamba/carteira_virtual",
-            tecnologias: "Dart + Flutter -> (Frontend - Virtual Bank Wallet)",
-            tipo: "Software Development"
-        },
-        { 
-            img: "./images/technologies/Flutter.png", 
-            github: "https://github.com/LeandroUcuamba/flutter_cookie_storie_app",
-            tecnologias: "Dart + Flutter -> (Frontend - Cookie Storie App)",
-            tipo: "Software Development"
-        },
-        { 
             img: "./images/technologies/js.png", 
-            github: "https://github.com/LeandroUcuamba/CRUD-com-Fetchi-API-Rest---2023",
+            github: "https://github.com/LeandroUcuamba/CRUD-Fetchi-API-Rest-2023",
             tecnologias: "JavaScript -> (Fullstack - CRUD with Fetch API)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/Angular1.png", 
-            github: "https://github.com/LeandroUcuamba/projetoCalcIMC_Angular",
+            github: "https://github.com/LeandroUcuamba/BMI-Calculator_Angular",
             youtube: "https://www.youtube.com/watch?v=rmabe4vQ6Ak&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=9&pp=iAQB",  
             tecnologias: "typeScript + Angular -> (BMI Calculator)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/React_Native.png", 
-            github: "https://github.com/LeandroUcuamba/Calculadora_IMC_com_React-Native",
+            github: "https://github.com/LeandroUcuamba/BMI-Calculator_React-Native",
             youtube: "https://www.youtube.com/watch?v=29hBsWdhtxo&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=17&pp=iAQB",  
             tecnologias: "JavaScript + React Native -> (BMI Calculator)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/HTML_CSS_JS_php_mysql.png", 
-            github: "https://github.com/LeandroUcuamba/Lista_de_alunos_CRUD-PHP",
+            github: "https://github.com/LeandroUcuamba/CRUD-PHP_Student_List",
             tecnologias: "PHP + MySQL -> (Student list control)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/HTML_CSS_JS_php_mysql.png", 
-            github: "https://github.com/LeandroUcuamba/CRUD_Completo_PHP_PDO_MVC_Materialize",
+            github: "https://github.com/LeandroUcuamba/CRUD_PHP_PDO_MVC_Materialize",
             tecnologias: "PHP + MySQL + MVC-> (Store Shoes Control)",
             tipo: "Software Development"
         },
@@ -161,14 +149,14 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         { 
             img: "./images/technologies/Flutter.png", 
-            github: "https://github.com/LeandroUcuamba/Calculadora_com_flutter-UI",
+            github: "https://github.com/LeandroUcuamba/Calculator_with_flutter-UI",
             youtube: "https://www.youtube.com/watch?v=EcE0BlNlbTg&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=12&pp=iAQB",  
             tecnologias: "Dart + Flutter -> (Calculator App)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/Angular1.png", 
-            github: "https://github.com/LeandroUcuamba/Projeto_Angular13_FrontEnd",
+            github: "https://github.com/LeandroUcuamba/Project_Angular13_FrontEnd",
             youtube: "https://www.youtube.com/watch?v=WzBU6KOo5_c&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=7",  
             tecnologias: "typeScript + Angular -> (Frontend - Blog App)",
             tipo: "Software Development"
@@ -182,14 +170,14 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         { 
             img: "./images/technologies/laravel.jpg", 
-            github: "https://github.com/LeandroUcuamba/Projeto_Publicidade-de-Eventos_com_LARAVEL",
+            github: "https://github.com/LeandroUcuamba/Event_Advertising_Project_with_LARAVEL",
             youtube: "https://www.youtube.com/watch?v=3vKgYEUM4d4&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=8&pp=iAQB",  
             tecnologias: "PHP + Laravel + MySQL + Blade -> (Fullstack - Event Promotion Web System)",
             tipo: "Software Development"
         },
         { 
             img: "./images/technologies/laravel.jpg",
-            github: "https://github.com/LeandroUcuamba/Meu_Projeto-LaravelApi_axios_e_vuejs3",
+            github: "https://github.com/LeandroUcuamba/My_Project-LaravelApi_axios_and_vuejs3",
             youtube: "https://www.youtube.com/watch?v=Plcpm8hWP3k&list=PL-vgmPl5Wfikh75kt9DF6btWGKtCVfq0F&index=16&pp=iAQB",  
             tecnologias: "PHP + Laravel + MySQL + VueJS + MySQL -> (Fullstack - Products Control)",
             tipo: "Software Development"
