@@ -327,6 +327,7 @@ section.start-animation .title{
 .image-container {
     display: flex;
     gap: 10rem;
+    flex-wrap: wrap;
 }
 
 .image-container img {
@@ -696,6 +697,10 @@ footer i{
         h2{
             margin-top: 24px;
         }
+    }
+    .image-container {
+        flex-direction: column;
+        gap: 2rem;
     }
 }
 @media(max-width:450px){
