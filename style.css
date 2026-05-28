@@ -501,7 +501,7 @@ section.start-animation .column h2{
 .new_sba-logo{
     width: 40px;
     height: 40px;
-    background-image: url(images/standardbank-icon.png);
+    background-image: url(assets/new_sba-logo.png);
     object-fit: cover;
 }
 
