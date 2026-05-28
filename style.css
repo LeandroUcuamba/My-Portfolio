@@ -495,14 +495,14 @@ section.start-animation .column h2{
     width: 40px;
     height: 40px;
     background-image: url(assets/new_evolium-logo.png);
-    object-fit:contain;
+    object-fit: contain;
 }
 
 .new_sba-logo{
     width: 40px;
     height: 40px;
     background-image: url(assets/new_sba-logo.png);
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .ttt{
